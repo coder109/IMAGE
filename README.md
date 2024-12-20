@@ -245,3 +245,12 @@ This might be the problem of file format.
 1. Open the script using `Vim`.
 2. Type `:set ff=unix`.
 3. Save and quit.
+
+## Acknowledgement
+This project cannot be developed without the following resources:
+
+- Parrot: https://github.com/wxjiao/ParroT
+- Dreamllm: https://github.com/RunpeiDong/DreamLLM
+- Stanford Alpaca: https://github.com/tatsu-lab/stanford_alpaca
+- Tower: https://huggingface.co/Unbabel/TowerBase-7B-v0.1
+- ALMA: https://huggingface.co/haoranxu/ALMA-7B-R
