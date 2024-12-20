@@ -139,7 +139,7 @@ DETECTED_SGG_DIR ./tempo
 
 ### MLLM Training
 
-Run `ParroT/full_dreamllm.sh`. For example:
+Run `ParroT/full_IMAGE.sh`. For example:
 
 ```shell
 # Multi-nodes are also supported
