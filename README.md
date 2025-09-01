@@ -250,6 +250,9 @@ This might be the problem of file format.
 2. Type `:set ff=unix`.
 3. Save and quit.
 
+## Download our model
+You could download our [IMAGE_En2De](https://modelscope.cn/models/andongchen/IMAGE_DE) and [IMAGE_EN2Fr](https://modelscope.cn/models/andongchen/IMAGE_FR) models from ModelScope.
+
 ## Acknowledgement
 This project cannot be developed without the following resources:
 
