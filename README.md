@@ -48,6 +48,10 @@ Download [`Stable-Diffusion-2-1-base`](https://huggingface.co/stabilityai/stable
 
 After Downloading, make sure you have modified the path in `modeling.modeling_plugins` properly. The paths to these models are hard coded.
 
+### Download Dataset
+
+You could download our data from [BaiduCould](https://pan.baidu.com/s/17wQc6lYWAXj3ydp5qIFEvQ?pwd=k2bp ). The raw images can be requested [here](https://github.com/multi30k/dataset) for Flickr30k. 
+
 ### Setup Basic Python Environment
 
 This is the most difficult part to install our project. You can try this to install some basic packages:
