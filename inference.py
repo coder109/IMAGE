@@ -16,7 +16,7 @@ from tqdm import tqdm
 
 from PIL import Image
 
-from modeling.configuration import IMAGELLMConfig
+from modeling.configuration import IMAGEConfig
 from modeling.modeling import IMAGELLMForCausalMLM
 from modeling.conversation import KeywordsStoppingCriteria, SeparatorStyle, default_conversation
 from modeling.logger import logger
@@ -42,7 +42,7 @@ def load_model(model_name_or_path, lora_path=None):
         device_map="auto",
     )
     tokenizer.pad_token = tokenizer.eos_token
-    config = IMAGELLMConfig.from_pretrained(
+    config = IMAGEConfig.from_pretrained(
 	model_name_or_path
     )
     config = config.reset_plugins_init_kwargs()
