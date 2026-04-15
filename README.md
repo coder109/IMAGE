@@ -23,14 +23,30 @@ The illustration is shown below:
 If you find our work IMAGE useful in your research, please cite the paper:
 
 ```bibtex
-@misc{chen2024makeimaginationclearerstable,
-      title={Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation}, 
-      author={Andong Chen and Yuchen Song and Kehai Chen and Muyun Yang and Tiejun Zhao and Min Zhang},
-      year={2024},
-      eprint={2412.12627},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.12627}, 
+@inproceedings{chen-etal-2025-make,
+    title = "Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation",
+    author = "Chen, Andong  and
+      Song, Yuchen  and
+      Chen, Kehai  and
+      Bai, Xuefeng  and
+      Yang, Muyun  and
+      Nie, Liqiang  and
+      Liu, Jie  and
+      Zhao, Tiejun  and
+      Zhang, Min",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1289/",
+    doi = "10.18653/v1/2025.acl-long.1289",
+    pages = "26567--26583",
+    ISBN = "979-8-89176-251-0"
 }
 ```
 
